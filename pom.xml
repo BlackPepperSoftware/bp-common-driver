@@ -16,10 +16,10 @@
 	<name>Black Pepper Common Driver</name>
 	
 	<scm>
-		<connection>scm:git:git@codebasehq.com:blackpepper/black-pepper-common/bp-common-driver.git</connection>
-		<developerConnection>scm:git:git@codebasehq.com:blackpepper/black-pepper-common/bp-common-driver.git</developerConnection>
+		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-common-driver.git</connection>
+		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-common-driver.git</developerConnection>
 		<tag>HEAD</tag>
-		<url>https://blackpepper.codebasehq.com/projects/black-pepper-common/repositories/bp-common-driver</url>
+		<url>https://github.com/BlackPepperSoftware/bp-common-driver</url>
 	</scm>
 
 	<dependencies>
