@@ -43,6 +43,16 @@
 	
 	</licenses>
 	
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/BlackPepperSoftware/bp-common-driver/issues</url>
+	</issueManagement>
+	
+	<ciManagement>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/BlackPepperSoftware/bp-common-driver</url>
+	</ciManagement>
+
 	<scm>
 		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-common-driver.git</connection>
 		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-common-driver.git</developerConnection>
