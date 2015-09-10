@@ -26,7 +26,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>uk.co.blackpepper.common</groupId>
 	<artifactId>bp-common-driver</artifactId>
-	<version>1.1.0-SNAPSHOT</version>
+	<version>1.1.0</version>
 
 	<name>Black Pepper Common Driver</name>
 	<description>Library for building Page Objects with Selenium.</description>
@@ -56,7 +56,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-common-driver.git</connection>
 		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-common-driver.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>1.1.0</tag>
 		<url>https://github.com/BlackPepperSoftware/bp-common-driver</url>
 	</scm>
 
